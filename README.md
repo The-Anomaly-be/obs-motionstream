@@ -1,6 +1,6 @@
-# OBS Motion Streamer
+# OBS Motion Stream
 
-This script allows you to automatically start and stop a stream in OBS Studio based on motion detection in a video source.
+This script allows you to automatically start and stop a stream in OBS Studio based on motion detection in a video source. I used https://github.com/doct0r0710/obs-motion as a base and adapted the main functionality to create a live gaming room concept that activates a stream as soon as someone enters a room to play. You can see the result on my Youtube https://www.youtube.com/@theanomalyBE and Twitch https://www.twitch.tv/theanoma_ly channels. 
 
 ## Acknowledgements
 
