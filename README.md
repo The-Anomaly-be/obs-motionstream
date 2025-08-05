@@ -47,6 +47,7 @@ Before running the script, you must modify a few variables directly in the `inde
 | `avgSize`             | The number of frames used to calculate the motion average. Increase if the scene is "noisy" (e.g., rain, digital snow).           |
 | `inactivityTimeout`   | The delay in seconds without motion detection before automatically stopping the stream.                                                      |
 | `debug`               | Set this to `true` to display live detection values in the console. Very useful for tuning `motionLimit`.                   |
+| `connectionRetryDelay`               | Seconds to wait before retrying to connect to OBS.                  |
 
 ## Usage
 
